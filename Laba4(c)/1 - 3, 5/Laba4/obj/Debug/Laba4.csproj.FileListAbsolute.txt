@@ -1,0 +1,13 @@
+D:\Study\технология программирования\Laba4\Laba4\bin\Debug\Laba4.exe.config
+D:\Study\технология программирования\Laba4\Laba4\bin\Debug\Laba4.exe
+D:\Study\технология программирования\Laba4\Laba4\bin\Debug\Laba4.pdb
+D:\Study\технология программирования\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\Study\технология программирования\Laba4\Laba4\obj\Debug\Laba4.exe
+D:\Study\технология программирования\Laba4\Laba4\obj\Debug\Laba4.pdb
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\bin\Debug\Laba4.exe.config
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\bin\Debug\Laba4.exe
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\bin\Debug\Laba4.pdb
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\obj\Debug\Laba4.exe
+D:\Study\технология программирования\Laba4(c)\1 - 3, 5\Laba4\obj\Debug\Laba4.pdb

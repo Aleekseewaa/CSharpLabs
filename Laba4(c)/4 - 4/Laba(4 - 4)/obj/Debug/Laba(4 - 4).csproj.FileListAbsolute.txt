@@ -1,0 +1,6 @@
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\bin\Debug\Laba(4 - 4).exe.config
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\bin\Debug\Laba(4 - 4).exe
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\bin\Debug\Laba(4 - 4).pdb
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\obj\Debug\Laba(4 - 4).csproj.CoreCompileInputs.cache
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\obj\Debug\Laba(4 - 4).exe
+D:\Study\технология программирования\Laba4\Laba4\Laba(4 - 4)\obj\Debug\Laba(4 - 4).pdb
