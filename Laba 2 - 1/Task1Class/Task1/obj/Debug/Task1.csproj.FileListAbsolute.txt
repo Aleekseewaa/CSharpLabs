@@ -1,0 +1,6 @@
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\bin\Debug\Task1.dll
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\bin\Debug\Task1.pdb
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\obj\Debug\Task1.dll
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\obj\Debug\Task1.pdb
+D:\Study\технология программирования\LW\N2\HW\HW1dll\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
